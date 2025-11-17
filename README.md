@@ -1,0 +1,2 @@
+# landerpi_description
+这是一个基于Landerpi机器人的urdf描述文件的启动项修复，使之可以被简便的应用于常规电脑（而非官方的虚拟环境中）
